@@ -2,14 +2,15 @@
 
 
 <h2>Description</h2>
+In this project I built a basic home lab on my computer utilizing VirtualBox. I set up a main server as a Domain Controller running Windows Server 2019 and a client machine running Windows 10. I connected both systems and configured core services Active Directory for user and account management and DHCP for automatic network configuration. This lab simulates a real-world office network environment and helps me understand how computers and users connect and interact.
 
 <br />
 
-
 <h2>Environments Languages and Utilities Used</h2>
 
-- <b>Windows 10</b>
-- <b>Servers
+- <b>Windows 10 ISO</b>
+- <b>Windows Server 2019 ISO</b>
+- <b>VirtualBox</b>
 - <b>PowerShell</b> 
 
 
@@ -17,31 +18,27 @@
 
 <p align="center">
 Overview: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="" height="80%" width="80%"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="" height="80%" width="80%"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="" height="80%" width="80%"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="" height="80%" width="80%"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ 
 </p>
 
 <!--
