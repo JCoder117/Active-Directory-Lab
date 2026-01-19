@@ -18,9 +18,9 @@ In this project I built a basic home lab on my computer utilizing VirtualBox. I 
 
 <p align="center">
 Overview: <br/>
-<img src="" height="80%" width="80%"/>
+<img src="Guide.png" height="80%" width="80%"/>
 <br />
-<br />
+<!--<br />
 <br/>
 <img src="" height="80%" width="80%"/>
 <br />
